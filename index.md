@@ -11,7 +11,15 @@ Daan is een steengoede codeur en programmeur!
 Daan is een kei in javascript!
 
 ```javascript
-console.log("Neem contact met mij op");
+console.log("Hallo Wereld");
+```
+
+Daan is ook goed in PHP
+
+```php
+<?php
+    echo "Hallo Wereld";
+?>
 ```
 
 For more details see [Github Flavored Markdown](https://guides.github.com/features/mastering-markdown).
