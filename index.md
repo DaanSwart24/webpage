@@ -1,4 +1,4 @@
-## Welcome op mijn Website
+## Welkom op mijn Website
 
 Ik ben een enthousiase, nieuwsgierige en gedreven software developer!
 
