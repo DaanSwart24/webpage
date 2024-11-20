@@ -14,7 +14,7 @@ Daan is een kei in javascript!
 console.log("Hallo Wereld");
 ```
 
-Daan is ook goed in PHP
+Daan is ook goed in PHP!
 
 ```php
 <?php
