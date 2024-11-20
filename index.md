@@ -6,26 +6,12 @@ Neem gerust een kijkje op mijn site!
 
 ### Kwaliteiten
 
-Daan is een hele steengoede codeur en programmeur!
+Daan is een steengoede codeur en programmeur!
 
-Daan is een kei in PHP & MySQL!
+Daan is een kei in javascript!
 
-```markdown
-Syntax highlighted block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_  and `Code` text
-
-[Link](url) and ![Image](src)
+```javascript
+console.log("Neem contact met mij op");
 ```
 
 For more details see [Github Flavored Markdown](https://guides.github.com/features/mastering-markdown).
